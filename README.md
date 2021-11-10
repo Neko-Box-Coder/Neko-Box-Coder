@@ -1,4 +1,7 @@
-### Just a graduate who loves programming 💻
+## Just a graduate who loves programming 💻
+
+#### I am the main contributer for [ssGUI](https://github.com/Neko-Box-Coder/ssGUI)
+![](https://raw.githubusercontent.com/Neko-Box-Coder/ssGUI/main/Internal_Documentation/ND_Config/Images/Logo.png)
 
 **⌛️ How long have I been programming?** I have been programming for about half of my life 🙂
 
