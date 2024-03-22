@@ -6,16 +6,12 @@ I am just a nerd who loves programming 💻 and anime 😺
 
 ## Work in Progress
 
----
-
 ### [runcpp2](https://github.com/Neko-Box-Coder/runcpp2) 🏃‍♂️, a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
 
 ### [ssGUI](https://github.com/Neko-Box-Coder/ssGUI), a simple cross-platform GUI library for C++
 ![](https://github.com/Neko-Box-Coder/ssGUI/blob/main/DocsGeneration/ND_Config/Images/Logo.png?raw=true)
 
 ## Feature Complete
-
----
 
 ### [System2](https://github.com/Neko-Box-Coder/System2), a C header-only library for calling shell commands with stdin & stdout communication
 
