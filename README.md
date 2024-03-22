@@ -1,26 +1,45 @@
-## Just a graduate who loves programming 💻
+## About Me
+
+I am just a nerd who loves programming 💻 and anime 😺
+
+## My personal tools/libraries 🔧
+
+## Work in Progress
+
+---
+
+### [runcpp2](https://github.com/Neko-Box-Coder/runcpp2) 🏃‍♂️, a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
+
+### [ssGUI](https://github.com/Neko-Box-Coder/ssGUI), a simple cross-platform GUI library for C++
+![](https://github.com/Neko-Box-Coder/ssGUI/blob/main/DocsGeneration/ND_Config/Images/Logo.png?raw=true)
+
+## Feature Complete
+
+---
+
+### [System2](https://github.com/Neko-Box-Coder/System2), a C header-only library for calling shell commands with stdin & stdout communication
+
+```
+  _______________________________
+/_______________________________/|
+|o   ____  _  _  ____  ____   o|$|
+|   / ___)( \/ )/ ___)(___ \   |$| ______
+|   \___ \ )  / \___ \ / __/   |$| $$$$$/
+|   (____/(__/  (____/(____)   |$| $$$$/
+|o____________________________o|/  &//
+```
+
+### [ssLogger](https://github.com/Neko-Box-Coder/ssLogger), a simple macro logger for call stack and debug logging
+![](https://github.com/Neko-Box-Coder/ssLogger/raw/main/Resources/logLevels.png)
+
+### [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), a simple library for overriding functions for mocking
+![](https://github.com/Neko-Box-Coder/CppOverride/raw/master/Logo.png)
+
+### [Embed2C](https://github.com/Neko-Box-Coder/Embed2C), a simple program and CMake helper for embedding binary files to source files
+
+---
 
 ##### Feel free to check out my [website](https://nekoboxcoder.dev)
-
-#### I am the main contributer for [ssGUI](https://github.com/Neko-Box-Coder/ssGUI)
-![](https://github.com/Neko-Box-Coder/ssGUI/blob/main/DocsGeneration/ND_Config/Images/Logo.png?raw=true)
-![](https://raw.githubusercontent.com/Neko-Box-Coder/ssGUI/main/Internal_Documentation/ND_Config/Images/Logo.png)
-
-**⌛️ How long have I been programming?** I have been programming for about half of my life 🙂
-
-**🔲 Unity Experience:** I am specialised in graphics and game programming and have used Unity for more than 5 years, before Unity 5. Though I have been focusing on something else recently.
-
-**🗡 Graphics Experience:** I have done some OpenGL projects and have done some shader programming (Fragment, Vertex, Geometry shader) as well.
-
-**▶️ UI Skills:** I have designed UI for a few of my personal projects, as well as experience on using QT or other gui libraries/frameworks. I am also creating my own GUI library called ssGUI.  
-
-**🌎 Language Skills:** C++, C#, Java, C, Python, GLSL
-
-**🕸 Web skills:** HTML 5, CSS, JS
-
-
-
-
 
 <!---
 Neko-Box-Coder/Neko-Box-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
