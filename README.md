@@ -13,6 +13,8 @@ I am just a nerd who loves programming 💻 and anime 😺
 
 ## Feature Complete
 
+### [MacroPowerToy 🎲](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
+
 ### [System2](https://github.com/Neko-Box-Coder/System2), a C header-only library for calling shell commands with stdin & stdout communication
 
 ```
