@@ -8,14 +8,15 @@ Oh yeah, I also like anime 😺.
 
 ## Work in Progress
 
-### [runcpp2 🏃‍♂️](https://github.com/Neko-Box-Coder/runcpp2), a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
+### [🏃‍♂️ runcpp2](https://github.com/Neko-Box-Coder/runcpp2), a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
 
-### [MicroOmni](https://github.com/Neko-Box-Coder/MicroOmni), a Swiss army knife plugin that adds VSCode like functionalities to the [micro](https://github.com/zyedidia/micro) terminal editor
+### [🧰 MicroOmni](https://github.com/Neko-Box-Coder/MicroOmni), a Swiss army knife plugin that adds VSCode like functionalities to the [micro](https://github.com/zyedidia/micro) terminal editor
 
+### [📡 unofficial-plugin-channel](https://github.com/Neko-Box-Coder/unofficial-plugin-channel), an unofficial plugin channel for the [micro](https://github.com/zyedidia/micro) terminal editor
 
 ## Feature Complete
 
-### [MacroPowerToy 🎲](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
+### [🎲 MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
 
 ### [System2](https://github.com/Neko-Box-Coder/System2), a C header-only library for calling shell commands with stdin & stdout communication
 
