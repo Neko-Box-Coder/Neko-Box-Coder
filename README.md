@@ -1,15 +1,17 @@
 ## About Me
 
-I am just a nerd who loves programming 💻 and anime 😺
+I spend all day long programming 💻, configuring my coding environment 🔧 and doing dev-ops related things for my homelab Linux servers 👨‍🔬.
+
+Oh yeah, I also like anime 😺.
 
 ## My personal tools/libraries 🔧
 
 ## Work in Progress
 
-### [runcpp2](https://github.com/Neko-Box-Coder/runcpp2) 🏃‍♂️, a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
+### [runcpp2 🏃‍♂️](https://github.com/Neko-Box-Coder/runcpp2), a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
 
-### [ssGUI](https://github.com/Neko-Box-Coder/ssGUI), a simple cross-platform GUI library for C++
-![](https://github.com/Neko-Box-Coder/ssGUI/blob/main/DocsGeneration/ND_Config/Images/Logo.png?raw=true)
+### [MicroOmni](https://github.com/Neko-Box-Coder/MicroOmni), a Swiss army knife plugin that adds VSCode like functionalities to the [micro](https://github.com/zyedidia/micro) terminal editor
+
 
 ## Feature Complete
 
@@ -33,7 +35,14 @@ I am just a nerd who loves programming 💻 and anime 😺
 ### [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), a simple library for overriding functions for mocking
 ![](https://github.com/Neko-Box-Coder/CppOverride/raw/master/Logo.png)
 
+### [ssTest 🧪](https://github.com/Neko-Box-Coder/ssTest), a simple nestable testing framework
+
 ### [Embed2C](https://github.com/Neko-Box-Coder/Embed2C), a simple program and CMake helper for embedding binary files to source files
+
+## Paused
+
+### [ssGUI](https://github.com/Neko-Box-Coder/ssGUI), a simple cross-platform GUI library for C++
+![](https://github.com/Neko-Box-Coder/ssGUI/blob/main/DocsGeneration/ND_Config/Images/Logo.png?raw=true)
 
 ---
 
