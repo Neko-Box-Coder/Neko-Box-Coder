@@ -1,12 +1,12 @@
-## About Me
+## ❓️ About Me
 
 I spend all day long programming 💻, configuring my coding environment 🔧 and doing dev-ops related things for my homelab Linux servers 👨‍🔬.
 
 Oh yeah, I also like anime 😺.
 
-## My personal tools/libraries 🔧
+## 🔧 My personal tools/libraries
 
-## Work in Progress
+## 🚧 Work in Progress
 
 ### [🏃‍♂️ runcpp2](https://github.com/Neko-Box-Coder/runcpp2), a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
 
@@ -14,7 +14,7 @@ Oh yeah, I also like anime 😺.
 
 ### [📡 unofficial-plugin-channel](https://github.com/Neko-Box-Coder/unofficial-plugin-channel), an unofficial plugin channel for the [micro](https://github.com/zyedidia/micro) terminal editor
 
-## Feature Complete
+## ✨ Feature Complete
 
 ### [🎲 MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
 
