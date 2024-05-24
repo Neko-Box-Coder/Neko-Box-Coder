@@ -7,14 +7,19 @@ Oh yeah, I also like anime 😺.
 ## 🔧 My personal tools/libraries
 
 ## 🚧 Work in Progress
-
+<ul>
+  
 ### [🏃‍♂️ runcpp2](https://github.com/Neko-Box-Coder/runcpp2), a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
 
 ### [🧰 MicroOmni](https://github.com/Neko-Box-Coder/MicroOmni), a Swiss army knife plugin that adds VSCode like functionalities to the [micro](https://github.com/zyedidia/micro) terminal editor
 
 ### [📡 unofficial-plugin-channel](https://github.com/Neko-Box-Coder/unofficial-plugin-channel), an unofficial plugin channel for the [micro](https://github.com/zyedidia/micro) terminal editor
 
+</ul>
+
 ## ✨ Feature Complete
+
+<ul>
 
 ### [🎲 MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
 
@@ -40,10 +45,16 @@ Oh yeah, I also like anime 😺.
 
 ### [Embed2C](https://github.com/Neko-Box-Coder/Embed2C), a simple program and CMake helper for embedding binary files to source files
 
+</ul>
+
 ## Paused
+
+<ul>
 
 ### [ssGUI](https://github.com/Neko-Box-Coder/ssGUI), a simple cross-platform GUI library for C++
 ![](https://github.com/Neko-Box-Coder/ssGUI/blob/main/DocsGeneration/ND_Config/Images/Logo.png?raw=true)
+
+</ul>
 
 ---
 
