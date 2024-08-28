@@ -21,7 +21,11 @@ Oh yeah, I also like anime 😺.
 
 <ul>
 
-### [🎲 MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
+### [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), a simple library for overriding functions for mocking
+![](https://github.com/Neko-Box-Coder/CppOverride/raw/master/Logo.png)
+
+### [ssLogger](https://github.com/Neko-Box-Coder/ssLogger), a simple macro logger for call stack and debug logging
+![](https://github.com/Neko-Box-Coder/ssLogger/raw/main/Resources/logLevels.png)
 
 ### [System2](https://github.com/Neko-Box-Coder/System2), a C header-only library for calling shell commands with stdin & stdout communication
 
@@ -35,13 +39,9 @@ Oh yeah, I also like anime 😺.
 |o____________________________o|/  &//
 ```
 
-### [ssLogger](https://github.com/Neko-Box-Coder/ssLogger), a simple macro logger for call stack and debug logging
-![](https://github.com/Neko-Box-Coder/ssLogger/raw/main/Resources/logLevels.png)
-
-### [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), a simple library for overriding functions for mocking
-![](https://github.com/Neko-Box-Coder/CppOverride/raw/master/Logo.png)
-
 ### [ssTest 🧪](https://github.com/Neko-Box-Coder/ssTest), a simple nestable testing framework
+
+### [🎲 MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
 
 ### [Embed2C](https://github.com/Neko-Box-Coder/Embed2C), a simple program and CMake helper for embedding binary files to source files
 
