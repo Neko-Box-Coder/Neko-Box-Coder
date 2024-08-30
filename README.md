@@ -21,7 +21,7 @@ Oh yeah, I also like anime 😺.
 
 <ul>
 
-### [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), a simple library for overriding functions for mocking
+### [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), Override any functions you want, just like mocking but better 
 ![](https://github.com/Neko-Box-Coder/CppOverride/raw/master/Logo.png)
 
 ### [ssLogger](https://github.com/Neko-Box-Coder/ssLogger), a simple macro logger for call stack and debug logging
