@@ -39,7 +39,7 @@ Oh yeah, I also like anime 😺.
 |o____________________________o|/  &//
 ```
 
-### [ssTest 🧪](https://github.com/Neko-Box-Coder/ssTest), 🧪 A simple fancy test framework
+### [ssTest](https://github.com/Neko-Box-Coder/ssTest), 🧪 A simple fancy test framework
 ![](https://github.com/Neko-Box-Coder/ssTest/blob/main/OptionalAsserts.png?raw=true)
 
 ### [🎲 MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
