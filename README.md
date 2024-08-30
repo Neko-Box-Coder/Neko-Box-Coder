@@ -9,7 +9,7 @@ Oh yeah, I also like anime 😺.
 ## 🚧 Work in Progress
 <ul>
   
-### [🏃‍♂️ runcpp2](https://github.com/Neko-Box-Coder/runcpp2), a tool for running C/C++ files as scripts just like python, cross-platform, cross-compiler.
+### [🏃‍♂️ runcpp2](https://github.com/Neko-Box-Coder/runcpp2), Running C/C++ file cross-platform like a python script, anytime, anywhere
 
 ### [🧰 MicroOmni](https://github.com/Neko-Box-Coder/MicroOmni), a Swiss army knife plugin that adds VSCode like functionalities to the [micro](https://github.com/zyedidia/micro) terminal editor
 
@@ -39,7 +39,8 @@ Oh yeah, I also like anime 😺.
 |o____________________________o|/  &//
 ```
 
-### [ssTest 🧪](https://github.com/Neko-Box-Coder/ssTest), a simple nestable testing framework
+### [ssTest 🧪](https://github.com/Neko-Box-Coder/ssTest), 🧪 A simple fancy test framework
+![](https://github.com/Neko-Box-Coder/ssTest/blob/main/OptionalAsserts.png?raw=true)
 
 ### [🎲 MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
 
