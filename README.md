@@ -9,7 +9,7 @@ Oh yeah, I also like anime 😺.
 ## 🚧 Work in Progress
 <ul>
   
-### [runcpp2](https://github.com/Neko-Box-Coder/runcpp2), Running C/C++ file cross-platform like a python script, anytime, anywhere
+### [runcpp2](https://github.com/Neko-Box-Coder/runcpp2), A cross-platform declarative <s>and scriptable (WIP)</s> build system for c++ with the addition of letting you run any c++ files as a script, just like python!
 ![](https://raw.githubusercontent.com/Neko-Box-Coder/runcpp2/refs/heads/master/Runcpp2Logo.png)
 
 ### [🧰 MicroOmni](https://github.com/Neko-Box-Coder/MicroOmni), a Swiss army knife plugin that adds VSCode like functionalities to the [micro](https://github.com/zyedidia/micro) terminal editor
