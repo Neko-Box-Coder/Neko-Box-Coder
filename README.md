@@ -22,6 +22,9 @@ Oh yeah, I also like anime 😺.
 
 <ul>
 
+### [micro-dev](https://github.com/Neko-Box-Coder/micro-dev), My own fork of the micro text editor with various different patches to make it more functional
+![](https://github.com/Neko-Box-Coder/micro-dev/raw/dev/assets/micro-logo-drop.svg)
+
 ### [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), Override any functions you want, just like mocking but better 
 ![](https://github.com/Neko-Box-Coder/CppOverride/raw/master/Logo.png)
 
