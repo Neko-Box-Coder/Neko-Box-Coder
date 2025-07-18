@@ -1,71 +1,30 @@
-## ❓️ About Me
+## About Me
 
-I spend all day long programming 💻, configuring my coding environment 🔧 and doing dev-ops related things for my homelab Linux servers 👨‍🔬.
+I write things that make computers go beep boop, sometimes doing some dev-ops for my homelab and the rest of the time watching anime and reading manga.
 
-Oh yeah, I also like anime 😺.
+People I like:
+- Casey Muratori
+- Jonathan Blow
+- Carson Gross
 
-## 🔧 My personal tools/libraries
+### My Own Eco-System
 
-## 🚧 Work in Progress
-<ul>
-  
-### [runcpp2](https://github.com/Neko-Box-Coder/runcpp2), A cross-platform declarative <s>and scriptable (WIP)</s> build system for c++ with the addition of letting you run any c++ files as a script, just like python!
-![](https://raw.githubusercontent.com/Neko-Box-Coder/runcpp2/refs/heads/master/Runcpp2Logo.png)
-
-### [🧰 MicroOmni](https://github.com/Neko-Box-Coder/MicroOmni), a Swiss army knife plugin that adds VSCode like functionalities to the [micro](https://github.com/zyedidia/micro) terminal editor
-
-### [📡 unofficial-plugin-channel](https://github.com/Neko-Box-Coder/unofficial-plugin-channel), an unofficial plugin channel for the [micro](https://github.com/zyedidia/micro) terminal editor
-
-</ul>
-
-## ✨ Feature Complete
-
-<ul>
-
-### [micro-dev](https://github.com/Neko-Box-Coder/micro-dev), My own fork of the micro text editor with various different patches to make it more functional
-![](https://github.com/Neko-Box-Coder/micro-dev/raw/dev/assets/micro-logo-drop.svg)
-
-### [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), Override any functions you want, just like mocking but better 
-![](https://github.com/Neko-Box-Coder/CppOverride/raw/master/Logo.png)
-
-### [ssLogger](https://github.com/Neko-Box-Coder/ssLogger), a simple macro logger for call stack and debug logging
-![](https://github.com/Neko-Box-Coder/ssLogger/raw/main/Resources/logLevels.png)
-
-### [System2](https://github.com/Neko-Box-Coder/System2), a C header-only library for calling shell commands with stdin & stdout communication
-
-```
-  _______________________________
-/_______________________________/|
-|o   ____  _  _  ____  ____   o|$|
-|   / ___)( \/ )/ ___)(___ \   |$| ______
-|   \___ \ )  / \___ \ / __/   |$| $$$$$/
-|   (____/(__/  (____/(____)   |$| $$$$/
-|o____________________________o|/  &//
-```
-
-### [ssTest](https://github.com/Neko-Box-Coder/ssTest), 🧪 A simple fancy test framework
-![](https://github.com/Neko-Box-Coder/ssTest/blob/main/OptionalAsserts.png?raw=true)
-
-### [🎲 MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), A collection of useful C/C++ macros for manipulating arguments and preprocessing
-
-### [Embed2C](https://github.com/Neko-Box-Coder/Embed2C), a simple program and CMake helper for embedding binary files to source files
-
-</ul>
-
-## Paused
-
-<ul>
-
-### [ssGUI](https://github.com/Neko-Box-Coder/ssGUI), a simple cross-platform GUI library for C++
-![](https://github.com/Neko-Box-Coder/ssGUI/blob/main/DocsGeneration/ND_Config/Images/Logo.png?raw=true)
-
-</ul>
+- [runcpp2](https://github.com/Neko-Box-Coder/runcpp2), C++ python like scripting engine and build system.
+- [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), mock-ish framework, like gmock but without the inheritance requirements.
+- [ssLogger](https://github.com/Neko-Box-Coder/ssLogger), simple call stack and debug logger
+- [System2](https://github.com/Neko-Box-Coder/System2), a C header-only library for calling shell commands with stdin & stdout communication
+- [ssTest](https://github.com/Neko-Box-Coder/ssTest), a simple fancy test framework that makes tests look a bit nicer
+- [MacroPowerToy](https://github.com/Neko-Box-Coder/MacroPowerToys), a collection of C/C++ macros for manipulating arguments and preprocessing
+- [Embed2C](https://github.com/Neko-Box-Coder/Embed2C), a simple program and CMake helper for embedding binary files to source files, like `xxd` but cross-platform
 
 ---
 
-##### Feel free to check out my [website](https://nekoboxcoder.dev)
+### My own setup
 
-<!---
-Neko-Box-Coder/Neko-Box-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [SimpleCodingStyle](https://github.com/Neko-Box-Coder/SimpleCodingStyle), my own coding philosophy and style.
+- [micro-dev](https://github.com/Neko-Box-Coder/micro-dev), my version of the micro text editor
+- [MicroOmni](https://github.com/Neko-Box-Coder/MicroOmni), VSCode like functions plugin for the micro edtior
+- [filemanager2](https://github.com/Neko-Box-Coder/filemanager2), file manager for the micro text editor
+- [unofficial-plugin-channel](https://github.com/Neko-Box-Coder/unofficial-plugin-channel), an unofficial plugin channel for the [micro](https://github.com/zyedidia/micro) terminal editor
+
+
