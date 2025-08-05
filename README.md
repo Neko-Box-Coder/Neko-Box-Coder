@@ -3,6 +3,9 @@
 I write things that make computers go beep boop, sometimes doing some dev-ops for my homelab and the rest of the time watching anime and reading manga.
 
 People I like:
+- Nic Barker
+- Nir Lichtman
+- Fabrice Bellard
 - Casey Muratori
 - Jonathan Blow
 - Carson Gross
