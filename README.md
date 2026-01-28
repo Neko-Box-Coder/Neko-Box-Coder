@@ -14,6 +14,7 @@ People I like:
 
 - [runcpp2](https://github.com/Neko-Box-Coder/runcpp2), C++ python like scripting engine and build system.
 - [CppOverride](https://github.com/Neko-Box-Coder/CppOverride), mock-ish framework, like gmock but without the inheritance requirements.
+- [ModC](https://github.com/Neko-Box-Coder/ModC), ModC language, just like C but with railguards. Early work in progress.
 - [ssLogger](https://github.com/Neko-Box-Coder/ssLogger), simple call stack and debug logger.
 - [DSResult](https://github.com/Neko-Box-Coder/DSResult), A simple struct for allowing golang or rust like error handling.
 - [System2](https://github.com/Neko-Box-Coder/System2), a C header-only library for calling shell commands with stdin & stdout communication.
