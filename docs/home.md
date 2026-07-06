@@ -4,6 +4,7 @@
 
 layout: base
 title: Home
+permalink: /home/
 ---
 
 
