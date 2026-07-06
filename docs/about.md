@@ -1,4 +1,12 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # About Me
+
+![Avatar](/assets/sd2.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 I am an old school ish, low level ish programmer who writes things that make computers go beep boop. 
 

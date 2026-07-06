@@ -1,1 +1,20 @@
-theme: minima
+# theme: minima
+
+remote_theme: "jekyll/minima@4de3223"
+
+minima: 
+    skin: dark
+    nav_pages:
+    -   index.md
+    -   posts.md
+    -   about.md
+    social_links:
+    -   title: Neko Box Coder
+        icon: github
+        url: "https://github.com/neko-box-coder"
+
+
+plugins:
+-   jekyll-remote-theme
+-   jekyll-feed
+-   jekyll-seo-tag
