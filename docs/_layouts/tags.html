@@ -1,0 +1,60 @@
+---
+layout: base
+---
+
+<!-- Modified from https://yiling-huo.github.io/tutorials/2023/03/16/sort-posts-by-tag.html -->
+<div class="home">
+    {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    <!-- From https://edcupaioli.com/blog/get-a-list-of-tags-in-jekyll-two-ways/ -->
+    {% assign tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq %}
+
+    <!-- a list of tags to show up at the top of the page -->
+    <ul  style="list-style-type: none">
+        {% for i in tags %}
+            <li><a href="#{{ i | slugify }}" class="post-link">{{ i }}</a></li>
+        {% endfor %}
+    </ul>
+  
+    <br>
+    
+    {{ content }}
+
+    <br>
+
+    <!-- sort posts by tags -->
+    {% for tag in tags %}
+        <h2 class="post-list-heading">
+            <a href="#{{ tag | slugify }}">
+                {{ tag }}
+            </a>
+        </h2><a name="{{ tag | slugify }}"></a>
+        
+        <ul style="list-style-type: none">
+        
+        {% for post in site.tags[tag] %}
+            <li style="list-style-type: none">
+                <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+                <h3>
+                    <a href="{{ post.url }}" class="post-link">
+                        {{ post.title | escape }}
+                    </a>
+                </h3>
+                
+                {%- if site.minima.show_excerpts -%}
+                    {{ post.excerpt }}
+                    
+                    {% if post.content contains site.excerpt_separator %}
+                        <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+                    {% endif %}
+                {% endif %}
+                
+            </li>
+        {% endfor %}
+        </ul>
+    {% endfor %}
+
+  
+</div>

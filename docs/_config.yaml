@@ -8,6 +8,7 @@ minima:
     -   index.md
     -   posts.md
     -   about.md
+    -   tags.md
     social_links:
     -   title: Neko Box Coder
         icon: github

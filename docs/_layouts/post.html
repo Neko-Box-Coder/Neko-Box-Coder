@@ -30,12 +30,27 @@ layout: base
       </div>
       {%- endif %}
     </div>
+    
+    <!-- Tags -->
+    <!-- Modified from https://yiling-huo.github.io/tutorials/2023/03/16/sort-posts-by-tag.html -->
+    <div class="post-meta">
+        Tags: 
+        {% for tag in page.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="/tags#{{ tag_name | slugify }}" class="post-meta">
+              {{ tag_name }}
+              <!-- <code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp; -->
+            </a>
+        {% endfor %}
+    </div>
+  
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
+  <!-- Comments -->
   <script src="https://utteranc.es/client.js"
         repo="Neko-Box-Coder/Neko-Box-Coder"
         issue-term="pathname"
@@ -43,6 +58,7 @@ layout: base
         crossorigin="anonymous"
         async>
     </script>
+
 
   {% if jekyll.environment == 'production' -%}
     {% if page.comments == false -%}
