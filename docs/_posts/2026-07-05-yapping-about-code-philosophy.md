@@ -3,6 +3,7 @@ layout: post
 title: "Yapping About The Right Way of Programming"
 categories: programming c c++ yapping
 tags: programming c c++ yapping
+modified_date: 2026-07-11
 ---
 
 _This is taken and modified from my 
@@ -76,7 +77,7 @@ function in the generalization shows **EXACTLY** what concrete functions it will
 to debug as well since you can can access all the concrete data just by poking into the member 
 data structure.
 
-### Prefer Simple, Explicitly Iimperative Code
+### Prefer Simple, Explicitly Imperative Code
 
 Whenever possible, I normally avoid language features that do things implicitly or in a non-obvious 
 way. In C++, this includes the following:
@@ -98,8 +99,8 @@ String myString = GetDateTimeText();
 Depending on how `String` and `GetDateTimeText()` are defined, this single line can do various 
 things.
 
-- If `String` is just a simple C struct, the values in `String` will just be copied/assigned to 
-`myString`.
+- If `String` is just a simple C struct, the values in from `GetDateTimeText()` will just be 
+copied/assigned to `myString`.
 - If `String` has constructor or destructor defined, they might be called multiple depending on how 
 `GetDataTimeText()` constructs and returns it, which can allocate/deallocate memory.
 - If `String`  has `String& operator=(String& other)` defined, it might not only copy the raw data 
@@ -122,11 +123,11 @@ The problem is not _what_ logic or code do any of these run, the problem is know
 logic or code run, without having to go to different part of the codebase.
 
 In a C or C style C++ codebase, this line will always do one thing only - copy whatever values in the 
-returned `String` to `myString`, that's it.
+returned `String` from `GetDateTimeText()` to `myString`, that's it.
 
 Some people might say it's "skill" issue, but I disagree. All of these things I mentioned are 
-abstracted concepts that enable a specific ways or patterns of modelling logic and resource 
-management. These "concepts" raise the bug for beginners or programmers from another language to 
+abstracted concepts that enable specific ways or patterns of modelling logic and resource 
+management. These "concepts" raise the bar for beginners or programmers from another language to 
 work on a codebase, and it is difficult to figure out because they are so implicit.
 
 ---
