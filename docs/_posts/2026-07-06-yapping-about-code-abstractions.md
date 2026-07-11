@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Yapping About Code Abstractions"
-categories: programming c
-tags: programming c
+categories: programming c yapping
+tags: programming c yapping
 ---
 
 ### Explicit abstractions over implicit abstractions, no need to hide implementations

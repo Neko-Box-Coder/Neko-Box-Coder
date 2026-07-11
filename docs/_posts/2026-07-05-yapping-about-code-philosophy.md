@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Yapping About The Right Way of Programming"
-categories: programming c c++
-tags: programming c c++
+categories: programming c c++ yapping
+tags: programming c c++ yapping
 ---
 
 _This is taken and modified from my 
