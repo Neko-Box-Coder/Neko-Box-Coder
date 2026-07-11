@@ -17,4 +17,4 @@ I am Neko Box Coder, this is my personal blog/journal.
 You will find blog posts mostly about programming, homelabs and tech in general here. But sometimes 
 other stuff too like anime and maybe life. I use these posts as a draft for my youtube channel.
 
-Nothing here is AI generated, outsourcing your opinion and thinking to AI is dumb.
+Nothing here is AI generated, outsourcing your opinions and thinking to AI is dumb.
